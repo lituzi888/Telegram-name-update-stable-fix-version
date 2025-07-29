@@ -13,7 +13,7 @@ lastname实时更新效果：<a href="https://t.me/LiTuZi">Cody</a>
 ## 1. 安装步骤与项目地址
 <code>git clone [https://github.com/lituzi888/Telegram-name-update-stable-fix-version](https://github.com/lituzi888/Telegram-name-update-stable-fix-version) </code>
 
-安装完Python3后下载项目到本机 打开项目压缩包里的tg_username_update.py修改里面的api_id与api_hash保存
+安装完Python3后下载项目到本机，打开项目压缩包里的tg_username_update.py修改里面的api_id与api_hash保存
 
 上传项目到云服务器root目录里并解压
 
